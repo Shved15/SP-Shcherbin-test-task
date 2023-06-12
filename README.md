@@ -1,5 +1,6 @@
 ### Info 
-This project was developed as part of a test assignment. It allows for determining the independent movement of the ETHUSDT futures, excluding movements caused by the influence of BTCUSDT price.
+This project was developed as part of a test assignment. It allows for determining the independent movement of the ETHUSDT futures, excluding movements caused by the influence of BTCUSDT price.<br>
+I chose the method of technical analysis, and I implemented the exclusion of movements caused by the influence of BTCUSDT price using the correlation method.
 
 ### Installation instructions
 
